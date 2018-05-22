@@ -1,13 +1,13 @@
-# calculation-methods
+# Calculation methods
 
 This methods are being used to find function extrema:
 
--Dichotomy;
--Chord;
--Coordinate descent;
--Conjugate gradient;
--Marquardt;
--Swarm;
+	-Dichotomy;
+	-Chord;
+	-Coordinate descent;
+	-Conjugate gradient;
+	-Marquardt;
+	-Swarm;
 
 # Dichotomy method:
 	dichotomy(f, df, a, b, eps)
